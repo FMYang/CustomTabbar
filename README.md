@@ -51,10 +51,10 @@ erview];
 ```
 这种方案可以实现类似知乎APP的效果
 
-![zhihu](FMYang.github.io/media/zhihu-1.gif)
+![zhihu](https://github.com/FMYang/FMYang.github.io/blob/master/media/zhihu-1.gif)
 
 demo效果图：
-![zhihu1](FMYang.github.io/media/zhihu1.gif)
+![zhihu1](https://github.com/FMYang/FMYang.github.io/blob/master/media/zhihu1.gif)
 
 <!--more-->
 
@@ -141,16 +141,16 @@ CTTabBarController.m
 
 可实现类似新浪微博客户端的效果：
 
-![weibo](FMYang.github.io/media/weibo.gif)
+![weibo](https://github.com/FMYang/FMYang.github.io/blob/master/media/weibo.gif)
 
 demo效果图：
 
 图1
 
-![weibo1](FMYang.github.io/media/weibo1.gif)
+![weibo1](https://github.com/FMYang/FMYang.github.io/blob/master/media/weibo1.gif)
 
 图2
-![weibo2](FMYang.github.io/media/weibo2.gif)
+![weibo2](https://github.com/FMYang/FMYang.github.io/blob/master/media/weibo2.gif)
 
 
 对于凸起的按钮还要处理触摸手势，需要重写hitTest方法，具体细节请看[demo](https://github.com/FMYang/CustomTabbar)
