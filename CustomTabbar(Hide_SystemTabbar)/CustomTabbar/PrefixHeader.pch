@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  CustomTabbar
+//
+//  Created by 杨方明 on 15/7/22.
+//  Copyright (c) 2015年 杨方明. All rights reserved.
+//
+
+#ifndef CustomTabbar_PrefixHeader_pch
+#define CustomTabbar_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import "SystemConfig.h"
+#import "SystemSetting.h"
+
+#endif

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CE5C5A19491AAF1064224A837B54E276FD8A9FBD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CE5C5A19491AAF1064224A837B54E276FD8A9FBD" : 0,
+    "1AF1A7C32B0999BCA35E501FCE48685D4BBA0EB1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "771FBFC4-B2AD-4F33-B8EB-BB6C5324BBD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CE5C5A19491AAF1064224A837B54E276FD8A9FBD" : "CustomTabbar(Hide_SystemTabbar)\/",
+    "1AF1A7C32B0999BCA35E501FCE48685D4BBA0EB1" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomTabbar",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CustomTabbar.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:FMYang\/GitFlow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1AF1A7C32B0999BCA35E501FCE48685D4BBA0EB1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FMYang\/CustomTabbar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CE5C5A19491AAF1064224A837B54E276FD8A9FBD"
+    }
+  ]
+}
